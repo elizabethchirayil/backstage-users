@@ -5,4 +5,13 @@ metadata:
   description: Awesome Project Team
 spec:
   type: team
+  children: [jarvis]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: jarvis
+  description: Just A Rather Very Intelligent System
+spec:
+  type: team
   children: []
