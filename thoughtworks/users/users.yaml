@@ -9,7 +9,7 @@ metadata:
 spec:
   memberOf: [thoughtworks, awesome-project]
 ---
-apiVersion: backstage.io/v1aplha1
+apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: elizabethchirayil
