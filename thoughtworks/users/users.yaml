@@ -8,3 +8,13 @@ metadata:
     picture: 
 spec:
   memberOf: [thoughtworks, awesome-project]
+---
+apiVersion: backstage.io/v1aplha1
+kind: User
+metadata:
+  name: elizabethchirayil
+  profile:
+    displayName: Elizabeth Chirayil
+    email: iamliz@tw.com
+spec:
+  memberOf: [thoughtworks, jarvis]
